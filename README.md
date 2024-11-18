@@ -185,7 +185,7 @@ function closeLightbox() {
 ```
 ## OUTPUT:
 ![image](https://github.com/user-attachments/assets/696c496d-f61a-4d34-8bba-51652ca288da)
-![Uploading image.png…]()
+![image](https://github.com/user-attachments/assets/7880b31b-b1e9-4d59-970c-988e355908be)
 
 ## RESULT:
 The program for designing an interactive image gallery using HTML, CSS and JavaScript is executed successfully.
